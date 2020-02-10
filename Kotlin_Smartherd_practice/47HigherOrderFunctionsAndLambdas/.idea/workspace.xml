@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad398c26-3702-4439-9a58-abf2475444c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WWmX8dY4GKqybjxH96zhX3ClOq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Kotlin._60_lazy_keywordKt">
+    <configuration name="_56_Filter_Map_Using_LambdasKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="47HigherOrderFunctionsAndLambdas" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_56_Filter_Map_Using_LambdasKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_57_Collections_Predicates_all_any_count_findKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="47HigherOrderFunctionsAndLambdas" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_57_Collections_Predicates_all_any_count_findKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_58_Null_Safe_OperatorsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="47HigherOrderFunctionsAndLambdas" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_58_Null_Safe_OperatorsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_59_lateinitKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="47HigherOrderFunctionsAndLambdas" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_59_lateinitKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_60_lazy_keywordKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="47HigherOrderFunctionsAndLambdas" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_60_lazy_keywordKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin._60_lazy_keywordKt" />
+        <item itemvalue="Kotlin._59_lateinitKt" />
+        <item itemvalue="Kotlin._58_Null_Safe_OperatorsKt" />
+        <item itemvalue="Kotlin._57_Collections_Predicates_all_any_count_findKt" />
+        <item itemvalue="Kotlin._56_Filter_Map_Using_LambdasKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad398c26-3702-4439-9a58-abf2475444c3" name="Default Changelist" comment="" />
+      <created>1579273761962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579273761962</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="29" key="#Intentions" timestamp="1579446175569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="29" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1579446175569" />
+    <state x="550" y="29" key="#Project_Structure" timestamp="1579432371788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="29" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1579432371788" />
+    <state x="824" y="87" key="#com.intellij.ide.util.MemberChooser" timestamp="1579274113019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="824" y="87" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579274113019" />
+    <state width="1323" height="150" key="GridCell.Tab.0.bottom" timestamp="1581297459028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581297459028" />
+    <state width="1323" height="150" key="GridCell.Tab.0.center" timestamp="1581297459028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="150" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581297459028" />
+    <state width="1323" height="150" key="GridCell.Tab.0.left" timestamp="1581297459028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="150" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581297459028" />
+    <state width="1323" height="150" key="GridCell.Tab.0.right" timestamp="1581297459028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="150" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581297459028" />
+    <state width="1323" height="220" key="GridCell.Tab.1.bottom" timestamp="1581263795454">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581263795454" />
+    <state width="1323" height="220" key="GridCell.Tab.1.center" timestamp="1581263795454">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581263795454" />
+    <state width="1323" height="220" key="GridCell.Tab.1.left" timestamp="1581263795454">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581263795454" />
+    <state width="1323" height="220" key="GridCell.Tab.1.right" timestamp="1581263795454">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581263795454" />
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1580866363455">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580866363455" />
+    <state x="131" y="92" key="new project wizard" timestamp="1580942914910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="92" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580942914910" />
+    <state x="680" y="166" key="run.anything.popup" timestamp="1579275129913">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="680" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579275129913" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579411343853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579411343853" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/48_Higher_Order_Functions_Using_Lambda_expression.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/48_Higher_Order_Functions_Using_Lambda_expression.kt</url>
+          <line>18</line>
+          <properties class="Addition" method="addNum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/48_Higher_Order_Functions_Using_Lambda_expression.kt</url>
+          <line>16</line>
+          <properties class="Addition" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
